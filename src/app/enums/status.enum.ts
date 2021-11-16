@@ -1,0 +1,3 @@
+export enum Status {
+    TODOS = 'TODOS', SERVIDOR_UP = 'SERVIDOR_UP', SERVIDOR_DOWN = 'SERVIDOR_DOWN'
+}
